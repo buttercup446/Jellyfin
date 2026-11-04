@@ -214,4 +214,4 @@ Jellyfin is offered as a full free version with all features and updates include
 Unlock the full potential of your multimedia collection with Jellyfin today! Download now for a safe, free, and private media experience.
 
 ---
-**Last updated:** 2026-11-03 23:55:06 UTC
+**Last updated:** 2026-11-04 05:44:52 UTC
